@@ -41,6 +41,8 @@
   $yIntercept = $c;
 
   // Display the results on the webpage
+  echo "Input : " . $a . "x² + " . $b . "x + " . $c ."<br>";
+  echo "" . "<br>";
   echo "Vertex Form : " . $vertexForm ."<br>";
   echo "Vertex : " . $vertexCoordinate ."<br>";
   echo "Y-Intercept : " . $yIntercept ."<br>";
